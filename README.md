@@ -1,15 +1,14 @@
-# 🧠 pupildecompose
+# pupildecompose
 
 <div align="center">
+
+<img src="Assets/PupilDecompose.png" width="300"/>
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![Status](https://img.shields.io/badge/status-active-success.svg)
 ![Scientific](https://img.shields.io/badge/domain-pupillometry-purple.svg)
-![Platform](https://img.shields.io/badge/platform-Windows%20|%20Linux%20|%20Mac-lightgrey.svg)
 
 ### A Python package for physiological pupil-feature decomposition
-
----
 
 </div>
 
