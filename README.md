@@ -2,11 +2,7 @@
 
 <div align="center">
 
-<img src="Assets/PupilDecompose.png" width="300"/>
-
-![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
-![Status](https://img.shields.io/badge/status-active-success.svg)
-![Scientific](https://img.shields.io/badge/domain-pupillometry-purple.svg)
+<img src="Assets/PupilDecompose.png"/>
 
 ### A Python package for physiological pupil-feature decomposition
 
