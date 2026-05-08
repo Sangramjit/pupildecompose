@@ -1,0 +1,42 @@
+[build-system]
+
+requires = [
+    "setuptools>=61.0",
+    "wheel"
+]
+
+build-backend = "setuptools.build_meta"
+
+
+[project]
+
+name = "pupildecompose"
+
+version = "1.0"
+
+description = "A Python package for pupil feature decomposition."
+
+readme = "README.md"
+
+requires-python = ">=3.9"
+
+
+authors = [
+    { name = "Sangramjit Maity" }
+]
+
+dependencies = [
+
+    "numpy",
+    "pandas",
+    "matplotlib",
+    "scipy",
+    "tqdm"
+]
+
+
+[tool.pytest.ini_options]
+
+python_files = [
+    "test_*.py"
+]
